@@ -1,0 +1,22 @@
+.container{
+    text-align: right;
+    border: solid black;
+    padding: 80px;
+    margin: auto;
+    background-color: snow;
+
+}
+
+form{
+    border: solid black;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(235, 234, 234);
+    
+}
+
+.src{
+   float: left;
+
+}
